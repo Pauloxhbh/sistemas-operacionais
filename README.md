@@ -1,2 +1,2 @@
 # sistemas-operacionais
-esse repositorio é uma atividade avaliativa, da meteria de engenharia de software
+esse repositorio é uma atividade avaliativa, da matéria de engenharia de software
